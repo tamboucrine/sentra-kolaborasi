@@ -8,3 +8,4 @@ Repository bersama praktikum DevOps - Politeknik Negeri Batam.
 | Developer B | Muhammad Adilan | @muhammadadilan79-pixel |
 ## Daftar Skrip
 - setup.sh - menyiapkan lingkungan dan menjalankan smoke test
+- healthcheck.sh - memeriksa status layanan
